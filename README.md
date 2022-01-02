@@ -2,9 +2,9 @@
 Discord Bot (Dank Memer) Auto Farm
 
 Requirements : 
-  Python
-  pip install pynput
-  pip install win10toast_click
+  Python,
+  pip install pynput,
+  pip install win10toast_click.
   
 
 When You Run The Program, The Program Will Prompt You To Enter The 5 Types Of Information :
